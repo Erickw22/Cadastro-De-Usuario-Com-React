@@ -62,7 +62,7 @@ EU [Erickw22](https://github.com/Erickw22) para controle de versão. Para as ver
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]=(https://github.com/Erickw22/API-Com-Node.js/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]=(https://github.com/Erickw22/Cadastro-De-Usuario-Com-React/blob/Erickw22-patch-1/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
